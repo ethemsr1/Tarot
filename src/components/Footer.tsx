@@ -35,7 +35,7 @@ const Footer: React.FC = () => {
             rel="noopener noreferrer"
             className="iesmedia"
           >
-            I. E. S.
+            webiees
           </a>
         </p>
           <Heart className="h-4 w-4 mx-1 text-red-400 inline" fill="currentColor" />
