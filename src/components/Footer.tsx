@@ -30,7 +30,7 @@ const Footer: React.FC = () => {
         <p className="mt-2 text-sm">
           &copy; 2025 Tarot |{' '}
           <a
-            href="https://iesmedia.vercel.app/"
+            href="https://webiees.com/"
             target="_blank"
             rel="noopener noreferrer"
             className="iesmedia"
