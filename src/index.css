@@ -70,7 +70,7 @@ body {
   }
 }
 
-/* Card positions for Celtic Cross */
+
 .card-position-0 {
   z-index: 10;
 }
@@ -79,7 +79,7 @@ body {
   z-index: 9;
 }
 
-/* Add custom styles for font-serif */
+
 .font-serif {
   font-family: 'Playfair Display', Georgia, serif;
 }
